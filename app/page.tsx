@@ -120,7 +120,7 @@ export default function HomePage() {
                 <div className="mt-6 flex items-center gap-3">
                   <Button asChild className="bg-blue-600 hover:bg-blue-700">
                     <a href="https://drive.google.com/file/d/1NkASE87_1WR7JBsxz_pchv4Jizl8Py7_/view?usp=sharing" download aria-label="Download Resume">
-                      Download Resume
+                      Resume
                     </a>
                   </Button>
                   <Button variant="outline" asChild>
@@ -137,7 +137,7 @@ export default function HomePage() {
                   >
                     <Github className="h-4 w-4" aria-hidden="true" />
                     <span className="sr-only">GitHub</span>
-                    <span className="hidden sm:inline">github.com/SaiSupraja2004</span>
+                    <span className="hidden sm:inline">GitHub</span>
                   </a>
 
                   <a
