@@ -119,7 +119,7 @@ export default function HomePage() {
                 </p>
                 <div className="mt-6 flex items-center gap-3">
                   <Button asChild className="bg-blue-600 hover:bg-blue-700">
-                    <a href="/resume.pdf" download aria-label="Download Resume">
+                    <a href="https://drive.google.com/file/d/1NkASE87_1WR7JBsxz_pchv4Jizl8Py7_/view?usp=sharing" download aria-label="Download Resume">
                       Download Resume
                     </a>
                   </Button>
